@@ -1,8 +1,8 @@
-# product-client manger
+# product-client manager
 
 ## Description
 
-product-client manger is a web application built with React.js and Tailwind CSS. It serves as a client and product manager for a business, allowing admins to manage clients and their products. The backend is implemented with Node.js and Express.js, using MongoDB as the database.
+product-client manager is a web application built with React.js and Tailwind CSS. It serves as a client and product manager for a business, allowing admins to manage clients and their products. The backend is implemented with Node.js and Express.js, using MongoDB as the database.
 
 ## Features
 
